@@ -131,10 +131,15 @@ It serves as a structured reference for:
 
 <br><br>
 
+## [Repository Goals]()
 
+[-]() Provide a structured summary of core Project Management concepts aligned with PMI/PMBOK.[file:1][web:2]  
+[-]() Connect project management practices with cybersecurity and social engineering scenarios.  
+[-]() Offer reusable templates, artifacts, and governance mechanisms.  
+[-]() Support the Main Cybersecurity Repository with a formal planning and control layer.  
+[-]() Promote secure-by-design and risk-aware execution models.
 
-
-
+<br><br>
 
 
 
