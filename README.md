@@ -8,7 +8,7 @@
 <br><br>
 
 
-#  <p align="center"> 2- 🔐 [Cybersecurity and Social Engineering ]() / [_ProjectManagement]()
+#  <p align="center"> 2- 🔐 [Cybersecurity and Social Engineering ]() / [Project Management]()
 
 #### Governance-oriented Project Management framework for Cybersecurity and Social Engineering initiatives, aligned with PMI/PMBOK best practices, integrating risk, quality, and secure-by-design principles for AI and technology-driven projects.
 
@@ -31,6 +31,60 @@
 
 <br><br>
 
+
+### Cybersecurity and Social Engineering Project Management - PUC-SP 5th Semester (2026)
+
+
+[**Institution:**]() Pontifical Catholic University of São Paulo (PUC-SP  Humanistic AI & Data Science • 5º Semestre • 2026 <br>
+[**School:**]() FACEI - Faculty of Interdisciplinary Studies  <br>
+[Course Repo:]() INTEGRATED PROJECT: MACHINE LEARNING - 72 Hours <br>
+**Professor:**  [✨  Eduardo Savino Gomes]()  <br>
+[Extensionist Activities:]() Social projects with open-source software for community support.  <br>
+
+
+<br><br>
+
+
+ <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
+### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
+
+
+<br><br>
+
+<!--Confidentiality statement -->
+
+#
+
+<br><br><br>
+
+> [!NOTE]
+> 
+> ⚠️ Heads Up
+>
+> * Projects and deliverables may be made [publicly available]() whenever possible.
+>   
+> * The course emphasizes [**practical, hands-on experience**]() with real datasets to simulate professional consulting scenarios in the fields of **Machine Learning and Neural Networks** for partner organizations and institutions affiliated with the university.
+>   
+> * All activities comply with the [**academic and ethical guidelines of PUC-SP**]().
+>   
+> * Any content not authorized for public disclosure will remain [**confidential**]() and securely stored in [private repositories]().  
+> <br>
+>
+>
+
+
+
+<br><br>
+
+#
+
+<!--END Confidentiality statement -->
+
+
+<br><br><br>
+
+
+<!-- ======================================= Start DEFAULT HEADER ===========================================  -->
 
 
 
