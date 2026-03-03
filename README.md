@@ -88,9 +88,15 @@
 
 
 
-
-
-
+> [!TIP]
+> 
+> This repository is a focused **Project Management** companion to the broader Cybersecurity and Social Engineering initiative.  
+> It consolidates core concepts, tools, governance structures, and best practices in project management applied to Data Science, Artificial Intelligence, and Cybersecurity-related projects.
+>
+> ### ☞ **Access the Main Repository**  
+> **[Cybersecurity and Social Engineering – Main Repository](https://github.com/Quantum-Software-Development/1-Main_Cybersecurity_SocialEngineering_Repository)**
+> <br>
+> 
 
 
 
