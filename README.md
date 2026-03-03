@@ -142,9 +142,33 @@ It serves as a structured reference for:
 <br><br>
 
 
+## Table of Contents
+
+1. [Context and Motivation](#context-and-motivation)  
+2. [What Is Project Management?](#what-is-project-management)  
+3. [Processes vs Projects](#processes-vs-projects)  
+4. [Core Dimensions and Best Practices](#core-dimensions-and-best-practices)  
+5. [Project Life Cycle](#project-life-cycle)  
+6. [PMI / PMBOK Framework](#pmi--pmbok-framework)  
+7. [PMBOK Process Groups × Knowledge Areas (Mermaid)](#pmbok-process-groups--knowledge-areas-mermaid)  
+8. [Roles and Responsibilities](#roles-and-responsibilities)  
+9. [Planning, Scope, and Scheduling](#planning-scope-and-scheduling)  
+10. [Risk Management](#risk-management)  
+11. [Quality Management](#quality-management)  
+12. [Human Resources and Communication](#human-resources-and-communication)  
+13. [Common Project Pitfalls in IT](#common-project-pitfalls-in-it)  
+14. [When the Project Is a System](#when-the-project-is-a-system)  
+15. [Tools and Suggested Assets](#tools-and-suggested-assets)  
+16. [Suggested Folder Structure](#suggested-folder-structure)  
+17. [Recommended Images and Diagrams](#recommended-images-and-diagrams)  
+18. [Code and Artifact Snippets](#code-and-artifact-snippets)  
+19. [Integration with the Main Repository](#integration-with-the-main-repository)  
+20. [Bibliographic References](#bibliographic-references)  
+21. [Repository Metadata](#repository-metadata)
+22. [Contact](#Contact)
 
 
-
+<br><br>
 
 
 
